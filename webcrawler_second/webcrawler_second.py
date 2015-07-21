@@ -6,16 +6,14 @@ resultUrl = {inputURL:False}
 # from urllib import urlopen
 
 import urllib
-from urllib.parse import urlparse
+from urlparse import urlparse
 import time
 
 import pprint
 
-import BeautifulSoup
-import sys, bs4
+from bs4 import BeautifulSoup
 
-
-
+fp = open('database.txt', 'a')
 def processOneUrl(url):
     """fetch URL content and update resultUrl."""
     try:                        # in case of 404 error
@@ -34,7 +32,7 @@ def moreToCrawl():
     """returns True or False"""
     for url, crawled in iter(resultUrl.iteritems()):
         if not crawled:
-            print ("moreToCrawl found {}").format(url)
+            fp.write(("moreToCrawl found {}").format(url))
             return url
     return False
 
