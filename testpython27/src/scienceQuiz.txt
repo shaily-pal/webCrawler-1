@@ -1,0 +1,450 @@
+File containing single extracted URL html 
+
+
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+<meta content="text/html;charset=utf-8" http-equiv="content-type"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Science &amp; Technology - General Knowledge Today</title>
+<meta content="dvXSLvrGJWREiU33JbgEp-3VsopRrSVqGYaJGZcrxl8" name="google-site-verification"/>
+<!--[if lt IE 9]>
+	<script type="text/javascript" src="http://www.gktoday.in/wp-content/themes/groovy/js/html5.js"></script>
+	<![endif]-->
+<!-- SEO Ultimate (http://www.seodesignsolutions.com/wordpress-seo/) -->
+<!-- /SEO Ultimate -->
+<link href="http://www.gktoday.in/feed/" rel="alternate" title="General Knowledge Today » Feed" type="application/rss+xml"/>
+<link href="http://www.gktoday.in/comments/feed/" rel="alternate" title="General Knowledge Today » Comments Feed" type="application/rss+xml"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.gktoday.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link href="//www.gktoday.in/wp-content/uploads/wp-filebase.css?t=1418969321&amp;ver=3.2.12" id="wpfb-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.gktoday.in/wp-content/plugins/table-of-contents-plus/screen.css?ver=1505" id="toc-screen-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.gktoday.in/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" id="wp-pagenavi-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.gktoday.in/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=4.2.2" id="woocommerce_frontend_styles-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.gktoday.in/wp-content/plugins/tablepress/css/default.min.css?ver=1.6" id="tablepress-default-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.gktoday.in/wp-content/plugins/wp-comment-rating/assets/css/wpb-cr-frontend.css?ver=4.2.2" id="wpbcr_frontend_css-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.gktoday.in/wp-content/plugins/wp-comment-rating/assets/css/wpb-cr-frontend-awesome.css?ver=4.2.2" id="wpbcr_frontend_css_awesome-css" media="all" rel="stylesheet" type="text/css"/>
+<link href="http://www.gktoday.in/wp-content/themes/groovy/style.css?ver=4.2.2" id="general-css" media="all" rel="stylesheet" type="text/css"/>
+<script src="http://www.gktoday.in/wp-includes/js/jquery/jquery.js?ver=1.11.2" type="text/javascript"></script>
+<script src="http://www.gktoday.in/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var append_link = {"read_more":"%link%","prepend_break":"1","use_title":"false","add_site_name":"false","site_name":"General Knowledge Today","site_url":"http:\/\/www.gktoday.in","always_link_site":"false"};
+/* ]]> */
+</script>
+<script src="http://www.gktoday.in/wp-content/plugins/append-link-on-copy/js/append_link.js?ver=4.2.2" type="text/javascript"></script>
+<script src="http://www.gktoday.in/wp-content/themes/groovy/js/jquery.hoverIntent.min.js?ver=4.2.2" type="text/javascript"></script>
+<script src="http://www.gktoday.in/wp-content/themes/groovy/js/jquery.placeholder.min.js?ver=4.2.2" type="text/javascript"></script>
+<script src="http://www.gktoday.in/wp-content/themes/groovy/js/jplayer/jquery.jplayer.min.js?ver=4.2.2" type="text/javascript"></script>
+<script src="http://www.gktoday.in/wp-content/themes/groovy/js/jquery.themexSlider.js?ver=4.2.2" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var options = {"templateDirectory":"http:\/\/www.gktoday.in\/wp-content\/themes\/groovy\/"};
+/* ]]> */
+</script>
+<script src="http://www.gktoday.in/wp-content/themes/groovy/js/jquery.raty.min.js?ver=4.2.2" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var options = {"templateDirectory":"http:\/\/www.gktoday.in\/wp-content\/themes\/groovy\/"};
+/* ]]> */
+</script>
+<script src="http://www.gktoday.in/wp-content/themes/groovy/js/general.js?ver=4.2.2" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var WPBAjaxCommentRating = {"ajaxurl":"http:\/\/www.gktoday.in\/wp-admin\/admin-ajax.php","a":"wpbcr_ajax_comment","nonce":"c4d1e0bbb0"};
+/* ]]> */
+</script>
+<script src="http://www.gktoday.in/wp-content/plugins/wp-comment-rating/assets/js/wpb-cr-frontend.js?ver=4.2.2" type="text/javascript"></script>
+<link href="http://www.gktoday.in/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+<link href="http://www.gktoday.in/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+<meta content="WordPress 4.2.2" name="generator"/>
+<style type="text/css">div#toc_container {background: #FFFFFF;border: 1px solid #f0fef1;width: 400px;}</style><link href="http://www.gktoday.in/wp-content/themes/groovy/framework/assets/images/favicon.ico" rel="shortcut icon"/><style type="text/css">.featured-content{background-image:url(http://www.gktoday.in/wp-content/uploads/2015/01/course-background.jpg);}body, input, select, textarea{font-family:Roboto, Arial, Helvetica, sans-serif;}h1,h2,h3,h4,h5,h6, .header-navigation div > ul > li > a{font-family:Oswald, Arial, Helvetica, sans-serif;}input[type="submit"], input[type="button"], .button, .jp-play-bar, .jp-volume-bar-value, .free-course .course-price .price-text, .lessons-listing .lesson-attachments a, ul.styled-list.style-4 li:before, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page a.button.alt, .woocommerce-page button.button.alt, .woocommerce-page input.button.alt, .woocommerce-page #respond input#submit.alt, .woocommerce-page #content input.button.alt, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce #content input.button.alt:hover, .woocommerce-page
+a.button.alt:hover, .woocommerce-page button.button.alt:hover, .woocommerce-page input.button.alt:hover, .woocommerce-page #respond input#submit.alt:hover, .woocommerce-page #content input.button.alt:hover{background-color:#1977c4;}.free-course .course-price .corner{border-top-color:#1977c4;border-right-color:#1977c4;}.button.secondary, .quiz-listing .question-number, .lessons-listing .lesson-title .course-status, .course-price .price-text, .course-price .corner, .course-progress span, .questions-listing .question-replies, .course-price .corner-background, .user-links a:hover, .payment-listing .expanded .toggle-title:before, .styled-list.style-5 li:before, .faq-toggle .toggle-title:before, ul.styled-list.style-1 li:before, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit, .woocommerce #content input.button, .woocommerce-page a.button, .woocommerce-page button.button, .woocommerce-page input.button, .woocommerce-page #respond input#submit, .woocommerce-page #content input.button, .woocommerce a.button:hover, .woocommerce button.button:hover,
+.woocommerce input.button:hover, .woocommerce #respond input#submit:hover, .woocommerce #content input.button:hover, .woocommerce-page a.button:hover, .woocommerce-page button.button:hover, .woocommerce-page input.button:hover, .woocommerce-page #respond input#submit:hover, .woocommerce-page #content input.button:hover{background-color:#0094ea;}a, a:hover, a:focus, ul.styled-list li > a:hover{color:#0094ea;}.button.dark, .jp-gui, .jp-controls a, .jp-video-play-icon, .header-wrap, .header-navigation ul ul, .select-menu, .search-form, .mobile-search-form, .login-button .tooltip-text, .footer-wrap, .site-footer:after, .site-header:after, .widget-titlle{background-color:#3d4e5b;}.jp-jplayer{border-color:#3d4e5b;}.widget-titlle{border-bottom-color:#3d4e5b;}::-moz-selection{background-color:#1977c4;}::selection{background-color:#1977c4;}</style><script type="text/javascript">
+			WebFontConfig = {google: { families: [ "Oswald","Roboto" ] } };
+			(function() {
+				var wf = document.createElement("script");
+				wf.src = ("https:" == document.location.protocol ? "https" : "http") + "://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js";
+				wf.type = "text/javascript";
+				wf.async = "true";
+				var s = document.getElementsByTagName("script")[0];
+				s.parentNode.insertBefore(wf, s);
+			})();
+			</script>
+<!-- WooCommerce Version -->
+<meta content="WooCommerce 2.0.20" name="generator"/>
+<style type="text/css">
+/* <![CDATA[ */
+img.latex { vertical-align: middle; border: none; }
+/* ]]> */
+</style>
+<style type="text/css">.wpbcr-rate-up { font-size:14px;  } .wpbcr-rate-down{ font-size:14px;  } .wpbcr-rating, .wpbcr-already-rated{ font-size:14px;  } </style><script src="http://www.gktoday.in/wp-content/themes/groovy//js/jquery-1.8.3.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+$(".toggle_container").hide(); 
+$("h4.trigger").click(function(){
+    $(this).toggleClass("active").next().slideToggle("fast");
+    return false; 
+});
+ $("a[href='" + window.location.hash + "']").parent(".trigger").click();
+});</script>
+<script type="text/javascript">
+$(document).ready(function(){
+$(".toggle_container").hide(); 
+$("button.answerbutton").click(function(){
+$(this).parent().next('.toggle_container').slideToggle("medium");
+if ($.trim($(this).text()) === 'Show Answer') {
+$(this).text('Hide Answer');
+} else {
+$(this).text('Show Answer');        
+}
+return false; 
+});
+$("a[href='" + window.location.hash + "']").parent(".answerbutton").click();
+});</script>
+<script>
+document.onkeydown = function(e) {
+        if (e.ctrlKey && 
+            (e.keyCode === 67 || 
+             e.keyCode === 86 || 
+             e.keyCode === 85 || 
+             e.keyCode === 117)) {
+            return false;
+        } else {
+            return true;
+        }
+};
+$(document).keypress("u",function(e) {
+  if(e.ctrlKey)
+  {
+return false;
+}
+else
+{
+return true;
+}
+});
+</script>
+</meta></head>
+<body class="archive tax-objective-questions term-science-technology term-770">
+<div class="site-wrap">
+<div class="header-wrap">
+<!-- Begin top menu-->
+<nav id="top-bar">
+<div class="inner">
+<div class="menu-top-menu-container"><ul class="top-navigation sf-js-enabled sf-arrows hide_this"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40198" id="menu-item-40198"><a href="http://www.gktoday.in/banking-in-india-bank-po-study-material/">Banking Awareness</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40199" id="menu-item-40199"><a href="http://www.gktoday.in/quantitative-aptitude/">Quantitative Aptitude</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41350" id="menu-item-41350"><a href="http://store.gktoday.in">E-Books Downloads</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41352" id="menu-item-41352"><a href="http://academy.gktoday.in/gs-manual-2014-2">GS Manual 2014</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49280" id="menu-item-49280"><a href="http://www.gktoday.in/online-courses">Online Courses</a></li>
+</ul></div>
+<div class="select-menutop">
+<span></span>
+<select><option value="http://www.gktoday.in/banking-in-india-bank-po-study-material/">Banking Awareness</option><option value="http://www.gktoday.in/quantitative-aptitude/">Quantitative Aptitude</option><option value="http://store.gktoday.in">E-Books Downloads</option><option value="http://academy.gktoday.in/gs-manual-2014-2">GS Manual 2014</option><option value="http://www.gktoday.in/online-courses">Online Courses</option></select>
+</div>
+<!--/ select menu-->
+<ul class="top-navigation sf-js-enabled sf-arrows hide_this"> <a href="http://www.gktoday.in/register/">Login / Register</a></ul>
+</div>
+</nav>
+<!-- Finish Top Menu-->
+<header class="site-header" style="padding: 10px 10px 1px 10px;">
+<div class="row" style="padding: 5px 0px 20px 0px;">
+<div class="site-logo left">
+<a href="http://www.gktoday.in/" rel="home">
+<img alt="General Knowledge Today" src="http://www.gktoday.in/wp-content/uploads/2015/01/logo-5.jpg"/>
+</a>
+</div>
+<!-- /logo -->
+<div class="header-right"><a href="http://www.gktoday.in/course/ias-prelims-general-studies-paper-1-test-series/"><img src="http://www.gktoday.in/wp-content/uploads/2015/02/mock-test-2015-banner.jpg"/></a></div>
+<!-- /header right -->
+</div>
+<nav class="light" id="primary-navigation">
+<div class="inner">
+<div class="menu-menu-1-container"><ul class="primary-navigation sf-js-enabled hide_this"><li class="menu-item menu-item-type-post_type menu-item-object-page" id="menu-item-31934"><span style="background-color:#0992C9"></span><a href="http://www.gktoday.in/"><strong>Home</strong></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-31945"><span style="background-color:#0992C9"></span><a href="http://currentaffairs.gktoday.in/"><strong>Current Affairs</strong></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-31935"><span style="background-color:#0992C9"></span><a href="http://www.gktoday.in/gk/current-affairs-questions-answers/"><strong>Current Affairs Quiz</strong></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom" id="menu-item-33883"><span style="background-color:#0992C9"></span><a href="http://questions.gktoday.in/"><strong>General Knowledge Quiz</strong></a></li>
+</ul></div>
+<div class="select-menu">
+<span></span>
+<select><option value="http://www.gktoday.in/">Home</option><option value="http://currentaffairs.gktoday.in/">Current Affairs</option><option value="http://www.gktoday.in/gk/current-affairs-questions-answers/">Current Affairs Quiz</option><option value="http://questions.gktoday.in/">General Knowledge Quiz</option></select>
+</div>
+<!--/ select menu-->
+</div>
+</nav>
+</header>
+<!-- /header -->
+</div>
+<div class="padding_featured">
+<div class="featured-content"><div class="substrate"></div>
+<div class="row">
+<!-- /page title -->
+</div>
+</div>
+</div>
+<!-- /featured -->
+<div class="main-content"><div class="row"> <div class="left_middle_content">
+<div class="intermediu_right"></div>
+<div class="inside_post column content_width">
+<h2 id="section">Science &amp; Technology</h2>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 468x60, created 04/06/10 -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-5276580860677940" data-ad-slot="2003394223" style="display:inline-block;width:468px;height:60px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div class="applewrap"></div><div class="posts-listing">
+<span class="num">1. </span>
+<p>NASA’s Low-Density Supersonic Decelerator project aims to test technique for atmospheric entry on which planet? <br/>[A]Jupiter <br/>[B]Mars <br/>[C]Venus <br/>[D]Mercury <br/><button class="answerbutton">Show Answer </button>
+<div class="toggle_container">
+<p class="answer"><b>Mars</b><br/> The Low-Density Supersonic Decelerator or LDSD is a re-entry vehicle designed to test techniques for atmospheric entry on Mars. The disc-shaped LDSD uses an inflatable structure called the Supersonic Inflatable Aerodynamic Decelerator (SIAD), which is essentially an donut-shaped balloon, to create atmospheric drag in order to decelerate the vehicle before deploying a large supersonic parachute. The goal of the project is to develop a re-entry system capable of landing 2- to 3-ton payloads on Mars, as opposed to the 1-ton limit of the currently used systems. </p>
+</div>
+<span class="num">2. </span>
+<p>Which is the most common chemical used in  <a href="http://www.gktoday.in/cloud-seeding/" title="cloud seeding">cloud seeding</a>? <br/>[A]Potassium bromide <br/>[B]Silver iodide <br/>[C]Potassium chloride <br/>[D]Magnesium iodide <br/><button class="answerbutton">Show Answer </button>
+<div class="toggle_container">
+<p class="answer"><b>Silver iodide</b><br/> The most common chemicals used for cloud seeding include silver iodide, potassium iodide and dry ice (solid carbon dioxide). Cloud seeding process involved a furnace in which coal is burnt at 1,350 degrees Celsius in which powdered Silver Iodide is sprinkled. These particles rise in the air to cloud level in 10-12 minutes. After these particles travel upwards, they crystallize at minus-five degrees and since clouds have both ice and water crystals, the particles attract the water, its weight increases and they fall down in the form of rain within a couple of hours. </p>
+</div>
+<span class="num">3. </span>
+<p>With which country India has signed an agreement to jointly develop protective suits for chemical and biological warfare? <br/>[A]Russia <br/>[B]US <br/>[C]Italy <br/>[D]Japan <br/><button class="answerbutton">Show Answer </button>
+<div class="toggle_container">
+<p class="answer"><b>US</b><br/> India and USA signed an agreement to jointly develop protective suits for soldiers. Both sides also finalised two project agreements for hi-tech mobile power source. </p>
+</div>
+<span class="num">4. </span>
+<p>Which of the following causes  <a href="https://www.gktoday.in/ground-level-ozone/" title="Ground Level Ozone">Ground Level Ozone</a>? <br/>[A]Carbon monoxide <br/>[B]Oxides of nitrogen <br/>[C]Sulphur dioxide <br/>[D]Carbon dioxide <br/><button class="answerbutton">Show Answer </button>
+<div class="toggle_container">
+<p class="answer"><b>Oxides of nitrogen</b><br/> Ground level ozone is created by chemical reactions between oxides of nitrogen (Nox) and volatile organic compounds (VOC) in the presence of sunlight. Emissions from industrial facilities and electric utilities, motor vehicle exhaust, gasoline vapors, and chemical solvents are some of the major sources of Nox and VOC. Breathing ozone can trigger a variety of health problems, particularly for children, the elderly, and people of all ages who have lung diseases such as asthma. Ground level ozone can also have harmful effects on sensitive vegetation and ecosystems. </p>
+</div>
+<span class="num">5. </span>
+<p>Diesel Exhaust Fluid is an aqueous solution of ____? <br/>[A]Urea <br/>[B]Nitrogen <br/>[C]Carbon <br/>[D]Hydrogen <br/><button class="answerbutton">Show Answer </button>
+<div class="toggle_container">
+<p class="answer"><b>Urea</b><br/> Diesel Exhaust Fluid is an aqueous solution of Urea. Diesel Exhaust Fluid is used in transportation to reduce the amount of nitrogen oxides (Nox) emitted into the air by diesel engines. DEF is a high purity chemical, comprised of 32.5% urea and 67.5% de-ionized water. <a href="http://www.brenntagdef.com/en/pages/WhatisDEF/index.html" target="_blank">Reference</a> </p>
+</div>
+<span class="num">6. </span>
+<p>Which among the following is a correct meaning of medical condition called “Dextrocardia”? <br/>[A]Abnormal working of heart <br/>[B]Heart located in the right side <br/>[C]Unusual enlargement of heart <br/>[D]Accumulation of water in heart <br/><button class="answerbutton">Show Answer </button>
+<div class="toggle_container">
+<p class="answer"><b>Heart located in the right side</b><br/> Dextrocardia is a condition in which the heart is pointed toward the right side of the chest. Normally, the heart points to the left. The condition is present at birth (congenital). The abdominal and chest organs in babies with dextrocardia may be abnormal and may not work correctly. A very serious syndrome that appears with dextrocardia is called heterotaxy. In this condition, many of the organs are not in their usual places and may not work properly. For example, the spleen may be completely missing. The spleen is an important part of the immune system, so babies born without this organ are in danger of severe bacterial infections and death. In another form of heterotaxy, several small spleens exist, but they may not work correctly. </p>
+</div>
+<span class="num">7. </span>
+<p>Which type of coal has the fewest impurities and the highest calorific content? <br/>[A]Bituminous <br/>[B]Lignite <br/>[C]Anthracite <br/>[D]Peat <br/><button class="answerbutton">Show Answer </button>
+<div class="toggle_container">
+<p class="answer"><b>Anthracite</b><br/> Anthracite, also called hard coal, the most highly metamorphosed form of coal. It contains more fixed carbon than any other form of coal and the least amount of volatile matter and it has calorific values near 35 mega joules per kilogram. </p>
+</div>
+<span class="num">8. </span>
+<p>Lysosomes, which are known as suicide bags, are produced by which organelle? <br/>[A]Mitochondria <br/>[B]Golgi body <br/>[C]Ribosome <br/>[D]Peroxisome <br/><button class="answerbutton">Show Answer </button>
+<div class="toggle_container">
+<p class="answer"><b>Golgi body</b><br/> Lysosomes are called suicide sacks. They are produced by the Golgi body. They consist of a single membrane surrounding powerful digestive enzymes. It acts as the “garbage disposal” of the cell by breaking down cell components that are no longer needed as well as molecules or even bacteria that are ingested by the cell. </p>
+</div>
+<span class="num">9. </span>
+<p>The Wohlwill process is an electrolytic process used to refine ____? <br/>[A]Silver <br/>[B]Copper <br/>[C]Gold <br/>[D]Iron <br/><button class="answerbutton">Show Answer </button>
+<div class="toggle_container">
+<p class="answer"><b>Gold</b><br/> The Wohlwill process refers to an electrolytic process for refining gold using a hydrochloric-acid electrolyte. The process gives gold of 99.999% pure, and of higher purity than gold produced by the other common refining method. </p>
+</div>
+<span class="num">10. </span>
+<p>Which of the following preservatives is most commonly used to preserve meat products? <br/>[A]Sodium benzoate <br/>[B]Potassium bromated <br/>[C]Sodium nitrate <br/>[D]Butylated hydroxytoluene <br/><button class="answerbutton">Show Answer </button>
+<div class="toggle_container">
+<p class="answer"><b>Sodium nitrate</b><br/> Sodium nitrite and Sodium benzoate  are commonly used to preserve meat products. It prevents bacteria growth and help meat to retain its color. </p>
+</div> </p></p></p></p></p></p></p></p></p></p></div>
+<div class="clearfix"></div>
+<h2 id="section">Advertisement</h2>
+<div class="ad-block"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 336x280, created 09/10/08 -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-5276580860677940" data-ad-slot="9456535975" style="display:inline-block;width:336px;height:280px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+<div class="wp-pagenavi">
+<span class="current">1</span><a class="page larger" href="http://www.gktoday.in/objective-questions/science-technology/page/2/">2</a>
+</div></div>
+<aside class="sidebar column left_sidebar last">
+<script src="http://www.google.co.in/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript"></script>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 200x90, created 12/09/08 -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-5276580860677940" data-ad-slot="0851419903" style="display:inline-block;width:200px;height:90px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<div class="widget widget_archive">
+<h3 class="widget-title">Current Affairs</h3>
+<ul>
+<li><a href="http://currentaffairs.gktoday.in/month/current-affairs-july-2015">July 2015</a></li>
+<li><a href="http://currentaffairs.gktoday.in/month/current-affairs-june-2015">June 2015</a> |    <a href="http://store.gktoday.in/product/current-affairs-june-2015-pdf-compilation-download/" target="_blank"><img height="12" src="http://www.gktoday.in/wp-content/uploads/2014/02/download.png" title="Download PDF for Rs. 75" width="12"> </img></a></li>
+<li><a href="http://currentaffairs.gktoday.in/month/current-affairs-2015-may">May 2015</a> |    <a href="http://store.gktoday.in/product/current-affairs-may-2015-pdf-compilation-download/" target="_blank"><img height="12" src="http://www.gktoday.in/wp-content/uploads/2014/02/download.png" title="Download PDF for Rs. 50" width="12"> | <a href="https://play.google.com/store/books/details/GKToday_Team_Current_Affairs_May_2015?id=D8TSCQAAQBAJ" target='_new"'><img height="12" src="http://www.gktoday.in/wp-content/uploads/2015/06/Google-Play-Store-alt-icon.png" width="12"/></a></img></a></li>
+<li><a href="http://currentaffairs.gktoday.in/month/current-affairs-april-2015">April 2015</a> |    <a href="http://store.gktoday.in/product/current-affairs-april-2015-pdf-compilation-download/" target="_blank"><img height="12" src="http://www.gktoday.in/wp-content/uploads/2014/02/download.png" title="Download PDF for Rs. 50" width="12"/></a></li>
+<li><a href="http://currentaffairs.gktoday.in/month/current-affairs-march-2015">March 2015</a> |    <a href="http://store.gktoday.in/product/current-affairs-march-2015-pdf-compilation-download/" target="_blank"><img height="12" src="http://www.gktoday.in/wp-content/uploads/2014/02/download.png" title="Download PDF for Rs. 50" width="12"/></a></li>
+<li><a href="http://currentaffairs.gktoday.in/month/current-affairs-february-2015">February 2015</a> |    <a href="http://store.gktoday.in/product/current-affairs-february-2015-pdf-compilation-download/" target="_blank"><img height="12" src="http://www.gktoday.in/wp-content/uploads/2014/02/download.png" title="Download PDF for Rs. 50" width="12"/></a></li>
+<li><a href="http://currentaffairs.gktoday.in/month/current-affairs-january-2015">January 2015</a> |    <a href="http://store.gktoday.in/product/current-affairs-january-2015-pdf-compilation-download/" target="_blank"><img height="12" src="http://www.gktoday.in/wp-content/uploads/2014/02/download.png" title="Download PDF for Rs. 50" width="12"/></a></li>
+<li><a href="http://www.gktoday.in/current-affairs-2014-archive/">Current Affairs 2014</a></li>
+<li><a href="http://currentaffairs.gktoday.in/category/current-affairs-2013">Current Affairs 2013</a></li>
+<li><a href="http://www.gktoday.in/category/current-affairs/">Current Affairs 2012</a></li>
+<li><a href="http://www.gktoday.in/category/current-affairs-2011/">Current Affairs 2011</a></li>
+<li><a href="http://store.gktoday.in/"><b>E-Book Compilations</b></a></li>
+</ul>
+</div>
+<div class="widget widget_archive">
+<h3 class="widget-title">Current Affairs Category</h3>
+<ul>
+<li><a href="http://currentaffairs.gktoday.in/category/current-affairs-2015/india-national-current-affairs">National Current Affairs</a></li>
+<li><a href="http://currentaffairs.gktoday.in/category/states-current-affairs-for-pcs">State Current Affairs<a></a></a></li>
+<li><a href="http://currentaffairs.gktoday.in/category/current-affairs-2015/international-current-affairs">International Affairs</a></li>
+<li><a href="http://currentaffairs.gktoday.in/category/current-affairs-2015/business-economy-current-affairs">Business &amp; Economy</a></li>
+<li><a href="http://currentaffairs.gktoday.in/category/current-affairs-2015/banking-current-affairs">Banking Current Affairs</a></li>
+<li><a href="http://currentaffairs.gktoday.in/category/current-affairs-2015/science-and-technology">Science &amp; Techonlogy</a></li>
+<li><a href="http://currentaffairs.gktoday.in/category/current-affairs-2015/environment-current-affairs">Environment Current Affairs</a> | <a href="http://store.gktoday.in/product/environment-current-affairs-2013-2015/" target="_blank"><img height="12" src="http://www.gktoday.in/wp-content/uploads/2014/02/download.png" title="Download PDF for Rs. 150" width="12"> </img></a></li>
+<li><a href="http://currentaffairs.gktoday.in/category/current-affairs-2015/bills-acts-current-affairs-2015">Bills and Acts</a></li>
+<li><a href="http://currentaffairs.gktoday.in/category/current-affairs-2015/defence-current-affairs">Defence Current Affairs</a></li>
+<li><a href="http://currentaffairs.gktoday.in/category/current-affairs-2015/persons-in-news">Persons in News</a></li>
+<li><a href="http://currentaffairs.gktoday.in/category/current-affairs-2015/places-in-news">Places in News</a></li>
+<li><a href="http://currentaffairs.gktoday.in/category/current-affairs-2015/awards-in-current-affairs">Awards &amp; Honours</a></li>
+<li><a href="http://currentaffairs.gktoday.in/category/current-affairs-2015/sports">Sports Current Affairs</a></li>
+<li><a href="http://currentaffairs.gktoday.in/category/current-affairs-2015/art-and-culture-in-current-affairs">Art &amp; Culture in Current Affairs</a></li>
+</ul>
+</div>
+</aside>
+</div>
+<aside class="sidebar column fourcol_sidebar last">
+<div class="widget widget_text"> <div class="textwidget"><script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Bada -->
+<ins class="adsbygoogle" data-ad-client="ca-pub-5276580860677940" data-ad-slot="9094717795" style="display:inline-block;width:300px;height:600px"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div></div></aside></div></div></div></body></html><div class="widget widget_archive">
+<h3 class="widget-title">Email Subscription</h3>
+<form action="https://feedburner.google.com/fb/a/mailverify" method="post" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=GeneralKnowledgeToday', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true" style="border:0 solid #ccc;padding:3px;text-align:center;" target="popupwindow"><p><input name="email" placeholder="Enter Your Email" style="width:170px; display: inline;" type="text"/><input name="uri" type="hidden" value="GKTCivilServices"/><input name="loc" type="hidden" value="en_US"/><input style="display: inline;" type="submit" value="Subscribe"/></p></form>
+</div>
+<div class="widget widget_archive">
+<h3 class="widget-title">Banking Exams Material</h3>
+<ul>
+<li><a href="http://www.gktoday.in/category/bank-po/">Bank PO Study Material</a></li>
+<li><a href="http://www.gktoday.in/government-schemes-in-india/">Government Schemes in India</a></li>
+<li><a href="http://www.gktoday.in/category/bankpo-marketing-aptitude/">Marketing Aptitude for Bank PO</a></li>
+<li><a href="http://www.gktoday.in/bank-po-computer-awareness/">Computer Awareness</a></li>
+</ul>
+</div>
+<div class="widget widget_archive">
+<h3 class="widget-title">General Knowledge Quiz</h3>
+<ul>
+<li><a href="http://www.gktoday.in/category/gktoday-quiz-section/">Quiz Archive</a></li>
+<li><a href="http://www.gktoday.in/objective-questions/ancient-indian-history-questions/">Ancient Indian History</a></li>
+<li><a href="http://www.gktoday.in/objective-questions/medieval-indian-history-2/">Medieval Indian History</a></li>
+<li><a href="http://www.gktoday.in/objective-questions/modern-indian-history-freedom-struggle/">Modern Indian History</a></li>
+<li><a href="http://www.gktoday.in/objective-questions/indian-polity/">Indian Polity and Constitution</a></li>
+<li><a href="http://www.gktoday.in/objective-questions/indian-economy/">Indian Economy</a></li>
+<li><a href="http://www.gktoday.in/objective-questions/science-technology/">General Science</a></li>
+<li><a href="http://www.gktoday.in/objective-questions/geography/">Geography</a></li>
+</ul>
+</div>
+<div class="widget widget_archive">
+<h3 class="widget-title">English</h3>
+<ul>
+<li><a href="http://www.gktoday.in/english-bankpo-synonyms-vocabulary/">Synonyms</a></li>
+</ul>
+</div>
+<div class="widget widget_archive">
+<h3 class="widget-title">States General Knowledge</h3>
+<ul>
+<li><a href="http://www.gktoday.in/haryana-general-knowledge-for-hcs-examinations/" rel="nofollow">Haryana</a></li>
+<li><a href="http://www.gktoday.in/gk-for-ras-examination/" rel="nofollow">Rajasthan</a></li>
+<li><a href="http://www.gktoday.in/tamil-nadu-gk-for-tnpsc-examinations/" rel="nofollow">Tamil Nadu</a></li>
+<li><a href="http://www.gktoday.in/objective-questions/karnataka-general-knowledge/">Karnataka</a></li>
+<li><a href="http://www.gktoday.in/objective-questions/maharashtra-general-knowledge-questions/">Maharashtra</a></li>
+<li><a href="http://www.gktoday.in/objective-questions/kerala-general-knowledge/">Kerala</a></li>
+<li><a href="http://www.gktoday.in/objective-questions/odisha-general-knowledge/">Odisha</a></li>
+</ul>
+</div>
+<div class="widget widget_archive">
+<h3 class="widget-title">Follow GKToday</h3>
+<a href="http://www.facebook.com/gktoday.in" target="_blank"><img src="/wp-content/themes/Infinity/images/facebook.png" title="Follow us on Facebook"/></a>
+<a href="https://twitter.com/gktoday" target="_blank"><img src="/wp-content/themes/Ocean/images/twitter.png" title="Follow us on Twitter"/></a>
+<a href="https://plus.google.com/share?url=http://www.gktoday.in" target="_blank">
+<img alt="Share this website on Google+" src="http://www.gktoday.in/wp-content/themes/Infinity/images/googleplus.png" title="Share this website on Google+"/></a>
+<a href="http://feeds.feedburner.com/GeneralKnowledgeToday" target="_blank"><img src="/wp-content/themes/Infinity/images/rss.png" title="Subscribe RSS Feed"/></a>
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fgktoday.in&amp;width=299&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=false&amp;header=false&amp;appId=178644962231971" style="border:none; overflow:hidden; width:299px; height:258px;"></iframe>
+</div>
+
+
+
+
+<!-- /content -->
+<div class="footer">
+<a href="#top" id="smoothup" title="Back to top"></a>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23261693-1']);
+  _gaq.push(['_setDomainName', '.gktoday.in']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<div class="copyright">
+<p>© 2015 GKToday | All Rights Reserved | <a href="http://www.gktoday.in/about-us/"> About Us</a> | <a href="http://www.gktoday.in/terms-conditions/">Terms &amp; Condition, Disclaimer</a> | <a href="http://www.gktoday.in/contact-us/">Contact Us</a> | <a href="http://www.gktoday.in/testimonials/">Testimonials</a><span class="dharma"> || 'यतो धर्मस्ततो जयः' ||</span></p><div class="credits"><a href="http://www.gktoday.in/privacy-policy/"> Privacy &amp; Shipping Policy</a> | <a href="http://www.gktoday.in/cancellation-and-refund-policy/"> Cancellation &amp; Refund Policy</a> | <a href="http://www.gktoday.in/work-for-gktoday-2/">Jobs@GKToday</a></div>
+</div>
+<!-- /navigation -->
+</div>
+<!-- /footer -->
+
+<!-- /site wrap -->
+<div data-autoplay="false" data-barheight="48" data-bgcolor="#FFF" data-borderradius="0" data-defaultvideovolume="1" data-descriptionbottomcss="{color:#333; font-size:12px; font-family:Arial,Helvetica,sans-serif; overflow:hidden; text-align:left; margin:4px 0px 0px; padding: 0px;}" data-html5player="true" data-jsfolder="http://www.gktoday.in/wp-content/plugins/wonderplugin-lightbox/engine/" data-overlaybgcolor="#000" data-overlayopacity="0.8" data-responsive="true" data-showdescription="true" data-showtitle="true" data-skinsfoldername="skins/default/" data-thumbbottommargin="12" data-thumbheight="72" data-thumbtopmargin="12" data-thumbwidth="96" data-titlebottomcss="{color:#333; font-size:14px; font-family:Armata,sans-serif,Arial; overflow:hidden; text-align:left;}" id="wonderpluginlightbox_options" style="display:none;"></div><div id="fb-root"></div>
+<script type="text/javascript">
+		window.fbAsyncInit = function() {
+		FB.init({			
+		appId      : "159503224112963",
+		channelUrl : "http://www.gktoday.in/?facebook_channel=1",
+		status     : true,
+		cookie     : true,
+		xfbml      : true,
+		oauth	   : true
+		});};
+		(function(d){
+		var js, id = "facebook-jssdk"; if (d.getElementById(id)) {return;}
+		js = d.createElement("script"); js.id = id; js.async = true;
+		js.src = "//connect.facebook.net/en_US/all.js";
+		d.getElementsByTagName("head")[0].appendChild(js);
+		}(document));
+		</script><div id="su-footer-links" style="text-align: center;"></div><script src="http://www.gktoday.in/wp-content/themes/groovy/js/smoothscroll.js?ver=4.2.2" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var tocplus = {"smooth_scroll":"1","visibility_show":"show","visibility_hide":"hide","width":"400px"};
+/* ]]> */
+</script>
+<script src="http://www.gktoday.in/wp-content/plugins/table-of-contents-plus/front.js?ver=1505" type="text/javascript"></script>
+<script src="http://www.gktoday.in/wp-content/plugins/wonderplugin-lightbox/engine/wonderpluginlightbox.js?ver=2.6C" type="text/javascript"></script>
+<script src="http://www.gktoday.in/wp-includes/js/comment-reply.min.js?ver=4.2.2" type="text/javascript"></script>
+<script src="http://www.gktoday.in/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.0.20" type="text/javascript"></script>
+<script src="http://www.gktoday.in/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60" type="text/javascript"></script>
+<script src="http://www.gktoday.in/wp-content/plugins/woocommerce/assets/js/jquery-placeholder/jquery.placeholder.min.js?ver=2.0.20" type="text/javascript"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"countries":"{\"AF\":[],\"AT\":[],\"BE\":[],\"BI\":[],\"CZ\":[],\"DE\":[],\"DK\":[],\"FI\":[],\"FR\":[],\"HU\":[],\"IS\":[],\"IL\":[],\"KR\":[],\"NL\":[],\"NO\":[],\"PL\":[],\"PT\":[],\"SG\":[],\"SK\":[],\"SI\":[],\"LK\":[],\"SE\":[],\"VN\":[],\"AU\":{\"ACT\":\"Australian Capital Territory\",\"NSW\":\"New South Wales\",\"NT\":\"Northern Territory\",\"QLD\":\"Queensland\",\"SA\":\"South Australia\",\"TAS\":\"Tasmania\",\"VIC\":\"Victoria\",\"WA\":\"Western Australia\"},\"BR\":{\"AC\":\"Acre\",\"AL\":\"Alagoas\",\"AP\":\"Amap\u00e1\",\"AM\":\"Amazonas\",\"BA\":\"Bahia\",\"CE\":\"Cear\u00e1\",\"DF\":\"Distrito Federal\",\"ES\":\"Esp\u00edrito Santo\",\"GO\":\"Goi\u00e1s\",\"MA\":\"Maranh\u00e3o\",\"MT\":\"Mato Grosso\",\"MS\":\"Mato Grosso do Sul\",\"MG\":\"Minas Gerais\",\"PA\":\"Par\u00e1\",\"PB\":\"Para\u00edba\",\"PR\":\"Paran\u00e1\",\"PE\":\"Pernambuco\",\"PI\":\"Piau\u00ed\",\"RJ\":\"Rio de Janeiro\",\"RN\":\"Rio Grande do Norte\",\"RS\":\"Rio Grande do Sul\",\"RO\":\"Rond\u00f4nia\",\"RR\":\"Roraima\",\"SC\":\"Santa Catarina\",\"SP\":\"S\u00e3o Paulo\",\"SE\":\"Sergipe\",\"TO\":\"Tocantins\"},\"CA\":{\"AB\":\"Alberta\",\"BC\":\"British Columbia\",\"MB\":\"Manitoba\",\"NB\":\"New Brunswick\",\"NL\":\"Newfoundland\",\"NT\":\"Northwest Territories\",\"NS\":\"Nova Scotia\",\"NU\":\"Nunavut\",\"ON\":\"Ontario\",\"PE\":\"Prince Edward Island\",\"QC\":\"Quebec\",\"SK\":\"Saskatchewan\",\"YT\":\"Yukon Territory\"},\"CN\":{\"CN1\":\"Yunnan \\\/ \u4e91\u5357\",\"CN2\":\"Beijing \\\/ \u5317\u4eac\",\"CN3\":\"Tianjin \\\/ \u5929\u6d25\",\"CN4\":\"Hebei \\\/ \u6cb3\u5317\",\"CN5\":\"Shanxi \\\/ \u5c71\u897f\",\"CN6\":\"Inner Mongolia \\\/ \u5167\u8499\u53e4\",\"CN7\":\"Liaoning \\\/ \u8fbd\u5b81\",\"CN8\":\"Jilin \\\/ \u5409\u6797\",\"CN9\":\"Heilongjiang \\\/ \u9ed1\u9f99\u6c5f\",\"CN10\":\"Shanghai \\\/ \u4e0a\u6d77\",\"CN11\":\"Jiangsu \\\/ \u6c5f\u82cf\",\"CN12\":\"Zhejiang \\\/ \u6d59\u6c5f\",\"CN13\":\"Anhui \\\/ \u5b89\u5fbd\",\"CN14\":\"Fujian \\\/ \u798f\u5efa\",\"CN15\":\"Jiangxi \\\/ \u6c5f\u897f\",\"CN16\":\"Shandong \\\/ \u5c71\u4e1c\",\"CN17\":\"Henan \\\/ \u6cb3\u5357\",\"CN18\":\"Hubei \\\/ \u6e56\u5317\",\"CN19\":\"Hunan \\\/ \u6e56\u5357\",\"CN20\":\"Guangdong \\\/ \u5e7f\u4e1c\",\"CN21\":\"Guangxi Zhuang \\\/ \u5e7f\u897f\u58ee\u65cf\",\"CN22\":\"Hainan \\\/ \u6d77\u5357\",\"CN23\":\"Chongqing \\\/ \u91cd\u5e86\",\"CN24\":\"Sichuan \\\/ \u56db\u5ddd\",\"CN25\":\"Guizhou \\\/ \u8d35\u5dde\",\"CN26\":\"Shaanxi \\\/ \u9655\u897f\",\"CN27\":\"Gansu \\\/ \u7518\u8083\",\"CN28\":\"Qinghai \\\/ \u9752\u6d77\",\"CN29\":\"Ningxia Hui \\\/ \u5b81\u590f\",\"CN30\":\"Macau \\\/ \u6fb3\u95e8\",\"CN31\":\"Tibet \\\/ \u897f\u85cf\",\"CN32\":\"Xinjiang \\\/ \u65b0\u7586\"},\"HK\":{\"HONG KONG\":\"Hong Kong Island\",\"KOWLOON\":\"Kowloon\",\"NEW TERRITORIES\":\"New Territories\"},\"IN\":{\"AP\":\"Andra Pradesh\",\"AR\":\"Arunachal Pradesh\",\"AS\":\"Assam\",\"BR\":\"Bihar\",\"CT\":\"Chhattisgarh\",\"GA\":\"Goa\",\"GJ\":\"Gujarat\",\"HR\":\"Haryana\",\"HP\":\"Himachal Pradesh\",\"JK\":\"Jammu and Kashmir\",\"JH\":\"Jharkhand\",\"KA\":\"Karnataka\",\"KL\":\"Kerala\",\"MP\":\"Madhya Pradesh\",\"MH\":\"Maharashtra\",\"MN\":\"Manipur\",\"ML\":\"Meghalaya\",\"MZ\":\"Mizoram\",\"NL\":\"Nagaland\",\"OR\":\"Orissa\",\"PB\":\"Punjab\",\"RJ\":\"Rajasthan\",\"SK\":\"Sikkim\",\"TN\":\"Tamil Nadu\",\"TR\":\"Tripura\",\"UT\":\"Uttaranchal\",\"UP\":\"Uttar Pradesh\",\"WB\":\"West Bengal\",\"AN\":\"Andaman and Nicobar Islands\",\"CH\":\"Chandigarh\",\"DN\":\"Dadar and Nagar Haveli\",\"DD\":\"Daman and Diu\",\"DL\":\"Delhi\",\"LD\":\"Lakshadeep\",\"PY\":\"Pondicherry (Puducherry)\"},\"ID\":{\"AC\":\"Daerah Istimewa Aceh\",\"SU\":\"Sumatera Utara\",\"SB\":\"Sumatera Barat\",\"RI\":\"Riau\",\"KR\":\"Kepulauan Riau\",\"JA\":\"Jambi\",\"SS\":\"Sumatera Selatan\",\"BB\":\"Bangka Belitung\",\"BE\":\"Bengkulu\",\"LA\":\"Lampung\",\"JK\":\"DKI Jakarta\",\"JB\":\"Jawa Barat\",\"BT\":\"Banten\",\"JT\":\"Jawa Tengah\",\"JI\":\"Jawa Timur\",\"YO\":\"Daerah Istimewa Yogyakarta\",\"BA\":\"Bali\",\"NB\":\"Nusa Tenggara Barat\",\"NT\":\"Nusa Tenggara Timur\",\"KB\":\"Kalimantan Barat\",\"KT\":\"Kalimantan Tengah\",\"KI\":\"Kalimantan Timur\",\"KS\":\"Kalimantan Selatan\",\"KU\":\"Kalimantan Utara\",\"SA\":\"Sulawesi Utara\",\"ST\":\"Sulawesi Tengah\",\"SG\":\"Sulawesi Tenggara\",\"SR\":\"Sulawesi Barat\",\"SN\":\"Sulawesi Selatan\",\"GO\":\"Gorontalo\",\"MA\":\"Maluku\",\"MU\":\"Maluku Utara\",\"PA\":\"Papua\",\"PB\":\"Papua Barat\"},\"MY\":{\"JHR\":\"Johor\",\"KDH\":\"Kedah\",\"KTN\":\"Kelantan\",\"MLK\":\"Melaka\",\"NSN\":\"Negeri Sembilan\",\"PHG\":\"Pahang\",\"PRK\":\"Perak\",\"PLS\":\"Perlis\",\"PNG\":\"Pulau Pinang\",\"SBH\":\"Sabah\",\"SWK\":\"Sarawak\",\"SGR\":\"Selangor\",\"TRG\":\"Terengganu\",\"KUL\":\"W.P. Kuala Lumpur\",\"LBN\":\"W.P. Labuan\",\"PJY\":\"W.P. Putrajaya\"},\"NZ\":{\"NL\":\"Northland\",\"AK\":\"Auckland\",\"WA\":\"Waikato\",\"BP\":\"Bay of Plenty\",\"TK\":\"Taranaki\",\"HB\":\"Hawke\u2019s Bay\",\"MW\":\"Manawatu-Wanganui\",\"WE\":\"Wellington\",\"NS\":\"Nelson\",\"MB\":\"Marlborough\",\"TM\":\"Tasman\",\"WC\":\"West Coast\",\"CT\":\"Canterbury\",\"OT\":\"Otago\",\"SL\":\"Southland\"},\"ZA\":{\"EC\":\"Eastern Cape\",\"FS\":\"Free State\",\"GP\":\"Gauteng\",\"KZN\":\"KwaZulu-Natal\",\"LP\":\"Limpopo\",\"MP\":\"Mpumalanga\",\"NC\":\"Northern Cape\",\"NW\":\"North West\",\"WC\":\"Western Cape\"},\"ES\":{\"C\":\"A Coru\u00f1a\",\"VI\":\"\u00c1lava\",\"AB\":\"Albacete\",\"A\":\"Alicante\",\"AL\":\"Almer\u00eda\",\"O\":\"Asturias\",\"AV\":\"\u00c1vila\",\"BA\":\"Badajoz\",\"PM\":\"Baleares\",\"B\":\"Barcelona\",\"BU\":\"Burgos\",\"CC\":\"C\u00e1ceres\",\"CA\":\"C\u00e1diz\",\"S\":\"Cantabria\",\"CS\":\"Castell\u00f3n\",\"CE\":\"Ceuta\",\"CR\":\"Ciudad Real\",\"CO\":\"C\u00f3rdoba\",\"CU\":\"Cuenca\",\"GI\":\"Girona\",\"GR\":\"Granada\",\"GU\":\"Guadalajara\",\"SS\":\"Guip\u00fazcoa\",\"H\":\"Huelva\",\"HU\":\"Huesca\",\"J\":\"Ja\u00e9n\",\"LO\":\"La Rioja\",\"GC\":\"Las Palmas\",\"LE\":\"Le\u00f3n\",\"L\":\"Lleida\",\"LU\":\"Lugo\",\"M\":\"Madrid\",\"MA\":\"M\u00e1laga\",\"ML\":\"Melilla\",\"MU\":\"Murcia\",\"NA\":\"Navarra\",\"OR\":\"Ourense\",\"P\":\"Palencia\",\"PO\":\"Pontevedra\",\"SA\":\"Salamanca\",\"TF\":\"Santa Cruz de Tenerife\",\"SG\":\"Segovia\",\"SE\":\"Sevilla\",\"SO\":\"Soria\",\"T\":\"Tarragona\",\"TE\":\"Teruel\",\"TO\":\"Toledo\",\"V\":\"Valencia\",\"VA\":\"Valladolid\",\"BI\":\"Vizcaya\",\"ZA\":\"Zamora\",\"Z\":\"Zaragoza\"},\"TH\":{\"TH-37\":\"Amnat Charoen (\u0e2d\u0e33\u0e19\u0e32\u0e08\u0e40\u0e08\u0e23\u0e34\u0e0d)\",\"TH-15\":\"Ang Thong (\u0e2d\u0e48\u0e32\u0e07\u0e17\u0e2d\u0e07)\",\"TH-14\":\"Ayutthaya (\u0e1e\u0e23\u0e30\u0e19\u0e04\u0e23\u0e28\u0e23\u0e35\u0e2d\u0e22\u0e38\u0e18\u0e22\u0e32)\",\"TH-10\":\"Bangkok (\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23)\",\"TH-38\":\"Bueng Kan (\u0e1a\u0e36\u0e07\u0e01\u0e32\u0e2c)\",\"TH-31\":\"Buri Ram (\u0e1a\u0e38\u0e23\u0e35\u0e23\u0e31\u0e21\u0e22\u0e4c)\",\"TH-24\":\"Chachoengsao (\u0e09\u0e30\u0e40\u0e0a\u0e34\u0e07\u0e40\u0e17\u0e23\u0e32)\",\"TH-18\":\"Chai Nat (\u0e0a\u0e31\u0e22\u0e19\u0e32\u0e17)\",\"TH-36\":\"Chaiyaphum (\u0e0a\u0e31\u0e22\u0e20\u0e39\u0e21\u0e34)\",\"TH-22\":\"Chanthaburi (\u0e08\u0e31\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35)\",\"TH-50\":\"Chiang Mai (\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48)\",\"TH-57\":\"Chiang Rai (\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e23\u0e32\u0e22)\",\"TH-20\":\"Chonburi (\u0e0a\u0e25\u0e1a\u0e38\u0e23\u0e35)\",\"TH-86\":\"Chumphon (\u0e0a\u0e38\u0e21\u0e1e\u0e23)\",\"TH-46\":\"Kalasin (\u0e01\u0e32\u0e2c\u0e2a\u0e34\u0e19\u0e18\u0e38\u0e4c)\",\"TH-62\":\"Kamphaeng Phet (\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e40\u0e1e\u0e0a\u0e23)\",\"TH-71\":\"Kanchanaburi (\u0e01\u0e32\u0e0d\u0e08\u0e19\u0e1a\u0e38\u0e23\u0e35)\",\"TH-40\":\"Khon Kaen (\u0e02\u0e2d\u0e19\u0e41\u0e01\u0e48\u0e19)\",\"TH-81\":\"Krabi (\u0e01\u0e23\u0e30\u0e1a\u0e35\u0e48)\",\"TH-52\":\"Lampang (\u0e25\u0e33\u0e1b\u0e32\u0e07)\",\"TH-51\":\"Lamphun (\u0e25\u0e33\u0e1e\u0e39\u0e19)\",\"TH-42\":\"Loei (\u0e40\u0e25\u0e22)\",\"TH-16\":\"Lopburi (\u0e25\u0e1e\u0e1a\u0e38\u0e23\u0e35)\",\"TH-58\":\"Mae Hong Son (\u0e41\u0e21\u0e48\u0e2e\u0e48\u0e2d\u0e07\u0e2a\u0e2d\u0e19)\",\"TH-44\":\"Maha Sarakham (\u0e21\u0e2b\u0e32\u0e2a\u0e32\u0e23\u0e04\u0e32\u0e21)\",\"TH-49\":\"Mukdahan (\u0e21\u0e38\u0e01\u0e14\u0e32\u0e2b\u0e32\u0e23)\",\"TH-26\":\"Nakhon Nayok (\u0e19\u0e04\u0e23\u0e19\u0e32\u0e22\u0e01)\",\"TH-73\":\"Nakhon Pathom (\u0e19\u0e04\u0e23\u0e1b\u0e10\u0e21)\",\"TH-48\":\"Nakhon Phanom (\u0e19\u0e04\u0e23\u0e1e\u0e19\u0e21)\",\"TH-30\":\"Nakhon Ratchasima (\u0e19\u0e04\u0e23\u0e23\u0e32\u0e0a\u0e2a\u0e35\u0e21\u0e32)\",\"TH-60\":\"Nakhon Sawan (\u0e19\u0e04\u0e23\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c)\",\"TH-80\":\"Nakhon Si Thammarat (\u0e19\u0e04\u0e23\u0e28\u0e23\u0e35\u0e18\u0e23\u0e23\u0e21\u0e23\u0e32\u0e0a)\",\"TH-55\":\"Nan (\u0e19\u0e48\u0e32\u0e19)\",\"TH-96\":\"Narathiwat (\u0e19\u0e23\u0e32\u0e18\u0e34\u0e27\u0e32\u0e2a)\",\"TH-39\":\"Nong Bua Lam Phu (\u0e2b\u0e19\u0e2d\u0e07\u0e1a\u0e31\u0e27\u0e25\u0e33\u0e20\u0e39)\",\"TH-43\":\"Nong Khai (\u0e2b\u0e19\u0e2d\u0e07\u0e04\u0e32\u0e22)\",\"TH-12\":\"Nonthaburi (\u0e19\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35)\",\"TH-13\":\"Pathum Thani (\u0e1b\u0e17\u0e38\u0e21\u0e18\u0e32\u0e19\u0e35)\",\"TH-94\":\"Pattani (\u0e1b\u0e31\u0e15\u0e15\u0e32\u0e19\u0e35)\",\"TH-82\":\"Phang Nga (\u0e1e\u0e31\u0e07\u0e07\u0e32)\",\"TH-93\":\"Phatthalung (\u0e1e\u0e31\u0e17\u0e25\u0e38\u0e07)\",\"TH-56\":\"Phayao (\u0e1e\u0e30\u0e40\u0e22\u0e32)\",\"TH-67\":\"Phetchabun (\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e39\u0e23\u0e13\u0e4c)\",\"TH-76\":\"Phetchaburi (\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e38\u0e23\u0e35)\",\"TH-66\":\"Phichit (\u0e1e\u0e34\u0e08\u0e34\u0e15\u0e23)\",\"TH-65\":\"Phitsanulok (\u0e1e\u0e34\u0e29\u0e13\u0e38\u0e42\u0e25\u0e01)\",\"TH-54\":\"Phrae (\u0e41\u0e1e\u0e23\u0e48)\",\"TH-83\":\"Phuket (\u0e20\u0e39\u0e40\u0e01\u0e47\u0e15)\",\"TH-25\":\"Prachin Buri (\u0e1b\u0e23\u0e32\u0e08\u0e35\u0e19\u0e1a\u0e38\u0e23\u0e35)\",\"TH-77\":\"Prachuap Khiri Khan (\u0e1b\u0e23\u0e30\u0e08\u0e27\u0e1a\u0e04\u0e35\u0e23\u0e35\u0e02\u0e31\u0e19\u0e18\u0e4c)\",\"TH-85\":\"Ranong (\u0e23\u0e30\u0e19\u0e2d\u0e07)\",\"TH-70\":\"Ratchaburi (\u0e23\u0e32\u0e0a\u0e1a\u0e38\u0e23\u0e35)\",\"TH-21\":\"Rayong (\u0e23\u0e30\u0e22\u0e2d\u0e07)\",\"TH-45\":\"Roi Et (\u0e23\u0e49\u0e2d\u0e22\u0e40\u0e2d\u0e47\u0e14)\",\"TH-27\":\"Sa Kaeo (\u0e2a\u0e23\u0e30\u0e41\u0e01\u0e49\u0e27)\",\"TH-47\":\"Sakon Nakhon (\u0e2a\u0e01\u0e25\u0e19\u0e04\u0e23)\",\"TH-11\":\"Samut Prakan (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e1b\u0e23\u0e32\u0e01\u0e32\u0e23)\",\"TH-74\":\"Samut Sakhon (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e32\u0e04\u0e23)\",\"TH-75\":\"Samut Songkhram (\u0e2a\u0e21\u0e38\u0e17\u0e23\u0e2a\u0e07\u0e04\u0e23\u0e32\u0e21)\",\"TH-19\":\"Saraburi (\u0e2a\u0e23\u0e30\u0e1a\u0e38\u0e23\u0e35)\",\"TH-91\":\"Satun (\u0e2a\u0e15\u0e39\u0e25)\",\"TH-17\":\"Sing Buri (\u0e2a\u0e34\u0e07\u0e2b\u0e4c\u0e1a\u0e38\u0e23\u0e35)\",\"TH-33\":\"Sisaket (\u0e28\u0e23\u0e35\u0e2a\u0e30\u0e40\u0e01\u0e29)\",\"TH-90\":\"Songkhla (\u0e2a\u0e07\u0e02\u0e25\u0e32)\",\"TH-64\":\"Sukhothai (\u0e2a\u0e38\u0e42\u0e02\u0e17\u0e31\u0e22)\",\"TH-72\":\"Suphan Buri (\u0e2a\u0e38\u0e1e\u0e23\u0e23\u0e13\u0e1a\u0e38\u0e23\u0e35)\",\"TH-84\":\"Surat Thani (\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35)\",\"TH-32\":\"Surin (\u0e2a\u0e38\u0e23\u0e34\u0e19\u0e17\u0e23\u0e4c)\",\"TH-63\":\"Tak (\u0e15\u0e32\u0e01)\",\"TH-92\":\"Trang (\u0e15\u0e23\u0e31\u0e07)\",\"TH-23\":\"Trat (\u0e15\u0e23\u0e32\u0e14)\",\"TH-34\":\"Ubon Ratchathani (\u0e2d\u0e38\u0e1a\u0e25\u0e23\u0e32\u0e0a\u0e18\u0e32\u0e19\u0e35)\",\"TH-41\":\"Udon Thani (\u0e2d\u0e38\u0e14\u0e23\u0e18\u0e32\u0e19\u0e35)\",\"TH-61\":\"Uthai Thani (\u0e2d\u0e38\u0e17\u0e31\u0e22\u0e18\u0e32\u0e19\u0e35)\",\"TH-53\":\"Uttaradit (\u0e2d\u0e38\u0e15\u0e23\u0e14\u0e34\u0e15\u0e16\u0e4c)\",\"TH-95\":\"Yala (\u0e22\u0e30\u0e25\u0e32)\",\"TH-35\":\"Yasothon (\u0e22\u0e42\u0e2a\u0e18\u0e23)\"},\"US\":{\"AL\":\"Alabama\",\"AK\":\"Alaska\",\"AZ\":\"Arizona\",\"AR\":\"Arkansas\",\"CA\":\"California\",\"CO\":\"Colorado\",\"CT\":\"Connecticut\",\"DE\":\"Delaware\",\"DC\":\"District Of Columbia\",\"FL\":\"Florida\",\"GA\":\"Georgia\",\"HI\":\"Hawaii\",\"ID\":\"Idaho\",\"IL\":\"Illinois\",\"IN\":\"Indiana\",\"IA\":\"Iowa\",\"KS\":\"Kansas\",\"KY\":\"Kentucky\",\"LA\":\"Louisiana\",\"ME\":\"Maine\",\"MD\":\"Maryland\",\"MA\":\"Massachusetts\",\"MI\":\"Michigan\",\"MN\":\"Minnesota\",\"MS\":\"Mississippi\",\"MO\":\"Missouri\",\"MT\":\"Montana\",\"NE\":\"Nebraska\",\"NV\":\"Nevada\",\"NH\":\"New Hampshire\",\"NJ\":\"New Jersey\",\"NM\":\"New Mexico\",\"NY\":\"New York\",\"NC\":\"North Carolina\",\"ND\":\"North Dakota\",\"OH\":\"Ohio\",\"OK\":\"Oklahoma\",\"OR\":\"Oregon\",\"PA\":\"Pennsylvania\",\"RI\":\"Rhode Island\",\"SC\":\"South Carolina\",\"SD\":\"South Dakota\",\"TN\":\"Tennessee\",\"TX\":\"Texas\",\"UT\":\"Utah\",\"VT\":\"Vermont\",\"VA\":\"Virginia\",\"WA\":\"Washington\",\"WV\":\"West Virginia\",\"WI\":\"Wisconsin\",\"WY\":\"Wyoming\",\"AA\":\"Armed Forces (AA)\",\"AE\":\"Armed Forces (AE)\",\"AP\":\"Armed Forces (AP)\",\"AS\":\"American Samoa\",\"GU\":\"Guam\",\"MP\":\"Northern Mariana Islands\",\"PR\":\"Puerto Rico\",\"UM\":\"US Minor Outlying Islands\",\"VI\":\"US Virgin Islands\"}}","plugin_url":"http:\/\/www.gktoday.in\/wp-content\/plugins\/woocommerce","ajax_url":"\/wp-admin\/admin-ajax.php","ajax_loader_url":"http:\/\/www.gktoday.in\/wp-content\/plugins\/woocommerce\/assets\/images\/ajax-loader@2x.gif","i18n_select_state_text":"Select an option\u2026","i18n_required_rating_text":"Please select a rating","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_required_text":"required","i18n_view_cart":"View Cart \u2192","review_rating_required":"yes","update_order_review_nonce":"f7d14fb02c","apply_coupon_nonce":"408bb9637e","option_guest_checkout":"no","checkout_url":"\/wp-admin\/admin-ajax.php?action=woocommerce-checkout","is_checkout":"0","update_shipping_method_nonce":"48d566adfe","cart_url":"http:\/\/www.gktoday.in\/cart\/","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script src="http://www.gktoday.in/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.0.20" type="text/javascript"></script>
+<script src="http://www.gktoday.in/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.3.1" type="text/javascript"></script>
+<script src="http://www.gktoday.in/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.0.20" type="text/javascript"></script>
+
+
+<!-- Dynamic page generated in 5.274 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2015-07-22 15:50:52 -->
+<!-- super cache -->
